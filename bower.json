@@ -1,7 +1,7 @@
 {
   "name": "infowrap-date-format",
   "main": "date.format.js",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "homepage": "https://github.com/infowrap/date.format.js",
   "authors": [
     "support@infowrap.com"
